@@ -1,4 +1,4 @@
-# 🇬🇷 Card de Receitas Clássicas Gregas
+# Card de Receitas Clássicas Gregas
 
 Bem-vindo ao repositório **Card de Receitas Clássicas Gregas**!  
 Este projeto tem como objetivo criar uma interface interativa e visualmente atraente para exibir receitas tradicionais da culinária grega, como Moussaka, Gyros, Tzatziki, Spanakopita, entre outras.
